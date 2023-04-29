@@ -1,5 +1,6 @@
 # winSemEngChemDA
 Winter Semester 22-23, Engineering Chemistry Digital Assignment.
+
 Program 1 - Write a program to predict the thermal stability of 5 organometallic substances by 
 taking ΔH°f and TΔS from the user by using for loop and arrays to take the input of 
 the data and to print the result. (thermStability.java)
